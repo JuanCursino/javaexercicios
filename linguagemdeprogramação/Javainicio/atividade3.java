@@ -183,3 +183,74 @@ public class atividade3 {
 
     }
 }
+
+
+
+                                         // Teste de mesa
+
+// Atividade 1
+// Começo: anos = 25, meses = 6, dias = 15 
+// Resultado: 9365 dias
+
+// Atividade 2 
+// Começo: totalEleitores = 1000, votosBrancos = 50, votosNulos = 100, votosValidos = 800 
+// Resultado: 
+// Percentual de votos brancos: 5% 
+// Percentual de votos nulos: 10% 
+// Percentual de votos válidos: 80%
+
+// Atividade 3
+// Começo: salarioAtual = 2000, percentualReajuste = 10 
+// Resultado: Novo salário: R$2200.0
+
+// Atividade 4
+// Começo: custoFabrica = 20000 
+// Resultado: Custo final do carro ao consumidor: R$34600.0
+
+// Atividade 5
+// Começo: carrosVendidos = 10, valorVendas = 20000, salarioFixo = 1500, valorPorCarro = 500 
+// Resultado: Salário final do vendedor: R$4000.0
+
+// Atividade 6
+// Começo: tempFahrenheit = 98.6 
+// Resultado: Temperatura em Celsius: 37.0°C
+
+// Atividade 7 
+// Começo: numero = 15 
+// Resultado: É MAIOR QUE 10!
+
+// Atividade 8 
+// Começo: num = -5 
+// Resultado: O número é negativo.
+
+// Atividade 9
+// Começo: numMacas = 15 
+// Resultado: Custo total da compra: R$15.0
+
+// Atividade 10: Verificação de aprovação e cálculo da média 
+// Começo: nota1 = 7, nota2 = 8 
+// Resultado: 
+// Média do aluno: 7.5 
+// Aluno aprovado!
+
+// Atividade 11 
+// Começo: anoAtual = 2024, anoNascimento = 2006 
+// Resultado: Pode votar este ano.
+
+// Atividade 12 
+// Começo: valor1 = 25, valor2 = 40 
+// Resultado: O maior valor é: 40
+
+// Atividade 13
+// Começo: a = 15, b = 8 
+// Resultado: Os valores em ordem crescente são: 8.0, 15.0
+
+// Atividade 14
+// Começo: horaInicio = 22, horaFim = 3 
+// Resultado: A duração do jogo foi de 5 horas.
+
+// Atividade 15
+// Começo: horasTrabalhadas = 45, salarioHora = 10 
+// Resultado: O salário total do funcionário é: R$475.0
+
+
