@@ -1,8 +1,11 @@
+//atributos
 public class Ser_vivo {
     //atributos
     private String life;
     private int quantidade_patas;
     private String tipo ;
+
+    
  //métodos
    public Ser_vivo()
    {
