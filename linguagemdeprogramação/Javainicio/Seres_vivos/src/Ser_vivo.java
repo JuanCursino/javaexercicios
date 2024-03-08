@@ -58,7 +58,7 @@ public class Ser_vivo {
 
 
 
- //public Ser_vivo()    transforma um numero inteiro, sem necessidade fazer uma nova string, entretando a resposta não será editavel
+ //public Ser_vivo()    transforma o atributo em um numero inteiro, sem necessidade fazer uma nova string, entretando a resposta não será editavel
  //{
    //this.quantidade_patas=4;
  //}
