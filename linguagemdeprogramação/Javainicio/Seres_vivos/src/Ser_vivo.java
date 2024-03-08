@@ -1,4 +1,3 @@
-//metodos
 public class Ser_vivo {
     //atributos
     private String life;
