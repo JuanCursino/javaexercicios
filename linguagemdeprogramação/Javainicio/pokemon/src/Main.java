@@ -95,3 +95,16 @@ public class Main {
 
     }
 }
+
+
+
+public class TesteFracao {
+    public static void main(String[] args) {
+        TestaClasse f1 = new TestaClasse(2, 5);
+        TestaClasse f2 = new TestaClasse(3, 5);
+
+        TestaClasse resultado1 = f1.somar(f2);
+
+        System.out.println("Soma: " + resultado1);
+    }
+}
